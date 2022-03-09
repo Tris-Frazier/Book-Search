@@ -1,0 +1,45 @@
+body {
+  background-color: #ffdab9;
+  align-content: center;
+  text-align: center;
+  margin: auto;
+}
+h1 {
+  font-weight: bolder;
+  font-size: 75px;
+  font-family: "Satisfy", cursive;
+}
+p {
+  font-size: 40px;
+}
+ul {
+  color: #f4978e;
+  background-color: #ffdab9;
+  width: max-content;
+  display: flex;
+  margin: auto;
+}
+.form {
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  font-family: "Sansita Swashed", cursive;
+  font-size: 30px;
+  color: #f08080;
+}
+
+.author {
+  font-size: 1.5rem;
+}
+
+button {
+  background-color: #f08080;
+}
+
+.btn {
+  background-color: #f08080;
+  margin-left: 5px;
+  align-items: right;
+}
